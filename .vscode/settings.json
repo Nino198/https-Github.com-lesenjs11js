@@ -1,0 +1,7 @@
+{
+    "search.useGlobalIgnoreFiles": true,
+    "search.useParentIgnoreFiles": true,
+    "search.exclude": {
+        "editor": true
+    }
+}
